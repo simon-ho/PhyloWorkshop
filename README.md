@@ -3,3 +3,6 @@ This repository contains a number of practical exercises in molecular phlyogenet
 
 These practical exercises have been presented as part of introductory and advanced workshops on phylogenetic analysis, organised by members of the Molecular Ecology, Evolution, and Phylogenetics laboratory at the University of Sydney. Further details of these workshops can be found here:
 http://sydney.edu.au/science/biology/meep/workshops/
+
+Materials from the most recent workshop (July 2018) are available from the "Sydney Phylogenetics Workshop" repository:
+https://github.com/simon-ho/SydneyPhyloWorkshop
